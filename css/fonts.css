@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Benzin';
+    src: url('../fonts/Benzin-Medium.eot');
+    src: local('../fonts/Benzin Medium'), local('Benzin-Medium'),
+        url('../fonts/Benzin-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Benzin-Medium.woff2') format('woff2'),
+        url('../fonts/Benzin-Medium.woff') format('woff'),
+        url('../fonts/Benzin-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'IdealistSans';
+    src: url('../fonts/IdealistSans-Light.eot');
+    src: url('../fonts/IdealistSans-Light.woff') format('woff'),
+         url('../fonts/IdealistSans-Light.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
